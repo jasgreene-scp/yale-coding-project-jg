@@ -1,6 +1,6 @@
 # yale-coding-project-jg
 
-I spent approximately 30 hours working on this as API's were relatively new to me. I was able to get my backend working and had I had a little more time, a day or so, I would have been able to get my front end working to display the correct plots/information.
+I spent approximately 30 hours working on this as API's were relatively new to me. I was able to get my backend working and had I had a little more time, a day or so, I would have been able to get my front end working to display the correct plots/information.  The current selection available in my dropdowns were also just some hardcoed placeholders.
 
 (not applicatble since front end is not currently communicating with backend in my code)⚠️ Queries may take a bit to run due to full dataset size (100k) and cohort logic. This is expected behavior. Optimazation efforts may be applied at a later time to fix latency issues.
 
