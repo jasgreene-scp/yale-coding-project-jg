@@ -1,0 +1,5 @@
+disease_category,omop_concept_id,concept_name
+Cancer, 443392, Malignant neoplastic disesase
+Diabetes,201820,Diabetes mellitus
+Hypertension,316866,Hypertensive disorder
+CKD,46271022,Chronic kidney disease
